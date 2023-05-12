@@ -6,7 +6,7 @@
     
     
     • About: Explica de qué trata tu aplicación; para que sirve, a quién está orientada etc., para ello puedes ayudarte de la documentación creada en la UD06 
-    
+    Esta es una simulacion de una empresa que dispone de varias categorias de productos alimenticios, asi como de su stock, informacion de los provedores de los clientes y       la facturacion de toda la actividad.
     
     
     • Contacto: Escribe una descripción breve sobre ti y añade un correo electrónico para poder contactar contigo (el correo no tiene porque ser de verdad).
@@ -19,4 +19,6 @@
     Si quieres saber más sobre mi de cualquier duda me puedes escribir a mi correo Manuel.r.contin@gmail.com
     
     
-    • Referencias: Añade las referencias bibliográficas con enlaces que consideres oportunas.
+    • Referencias:
+    
+   Videos de interes https://www.youtube.com/watch?v=IWnW0svZ9JQ

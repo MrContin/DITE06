@@ -1,0 +1,8 @@
+C:\Users\manur\Documents\DAM\DDI\UD 6\Dashboard_DI04\UTILIDADES\bin\Release\UTILIDADES.dll
+C:\Users\manur\Documents\DAM\DDI\UD 6\Dashboard_DI04\UTILIDADES\bin\Release\UTILIDADES.pdb
+C:\Users\manur\Documents\DAM\DDI\UD 6\Dashboard_DI04\UTILIDADES\obj\Release\UTILIDADES.csproj.AssemblyReference.cache
+C:\Users\manur\Documents\DAM\DDI\UD 6\Dashboard_DI04\UTILIDADES\obj\Release\UTILIDADES.Properties.Resources.resources
+C:\Users\manur\Documents\DAM\DDI\UD 6\Dashboard_DI04\UTILIDADES\obj\Release\UTILIDADES.csproj.GenerateResource.cache
+C:\Users\manur\Documents\DAM\DDI\UD 6\Dashboard_DI04\UTILIDADES\obj\Release\UTILIDADES.csproj.CoreCompileInputs.cache
+C:\Users\manur\Documents\DAM\DDI\UD 6\Dashboard_DI04\UTILIDADES\obj\Release\UTILIDADES.dll
+C:\Users\manur\Documents\DAM\DDI\UD 6\Dashboard_DI04\UTILIDADES\obj\Release\UTILIDADES.pdb

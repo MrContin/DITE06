@@ -1,0 +1,12 @@
+C:\Users\manur\Documents\DAM\DDI\UD 6\Dashboard_DI04\GESTOR_DAL\bin\Release\GESTOR_DAL.exe
+C:\Users\manur\Documents\DAM\DDI\UD 6\Dashboard_DI04\GESTOR_DAL\bin\Release\GESTOR_DAL.pdb
+C:\Users\manur\Documents\DAM\DDI\UD 6\Dashboard_DI04\GESTOR_DAL\bin\Release\UTILIDADES.dll
+C:\Users\manur\Documents\DAM\DDI\UD 6\Dashboard_DI04\GESTOR_DAL\bin\Release\UTILIDADES.pdb
+C:\Users\manur\Documents\DAM\DDI\UD 6\Dashboard_DI04\GESTOR_DAL\obj\Release\GESTOR_DAL.csproj.AssemblyReference.cache
+C:\Users\manur\Documents\DAM\DDI\UD 6\Dashboard_DI04\GESTOR_DAL\obj\Release\GESTOR_DAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\manur\Documents\DAM\DDI\UD 6\Dashboard_DI04\GESTOR_DAL\obj\Release\GESTOR_DAL.Properties.Resources.resources
+C:\Users\manur\Documents\DAM\DDI\UD 6\Dashboard_DI04\GESTOR_DAL\obj\Release\GESTOR_DAL.csproj.GenerateResource.cache
+C:\Users\manur\Documents\DAM\DDI\UD 6\Dashboard_DI04\GESTOR_DAL\obj\Release\GESTOR_DAL.csproj.CoreCompileInputs.cache
+C:\Users\manur\Documents\DAM\DDI\UD 6\Dashboard_DI04\GESTOR_DAL\obj\Release\GESTOR_DAL.csproj.CopyComplete
+C:\Users\manur\Documents\DAM\DDI\UD 6\Dashboard_DI04\GESTOR_DAL\obj\Release\GESTOR_DAL.exe
+C:\Users\manur\Documents\DAM\DDI\UD 6\Dashboard_DI04\GESTOR_DAL\obj\Release\GESTOR_DAL.pdb

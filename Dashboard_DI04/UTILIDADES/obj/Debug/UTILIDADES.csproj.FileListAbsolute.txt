@@ -1,0 +1,16 @@
+C:\Users\manur\Documents\DAM\DDI\UD 4\contin_gutierrez_manuel_ModuloDI04_TareaEvaluativa01\Dashboard_DI04\UTILIDADES\bin\Debug\UTILIDADES.dll
+C:\Users\manur\Documents\DAM\DDI\UD 4\contin_gutierrez_manuel_ModuloDI04_TareaEvaluativa01\Dashboard_DI04\UTILIDADES\bin\Debug\UTILIDADES.pdb
+C:\Users\manur\Documents\DAM\DDI\UD 4\contin_gutierrez_manuel_ModuloDI04_TareaEvaluativa01\Dashboard_DI04\UTILIDADES\obj\Debug\UTILIDADES.csproj.AssemblyReference.cache
+C:\Users\manur\Documents\DAM\DDI\UD 4\contin_gutierrez_manuel_ModuloDI04_TareaEvaluativa01\Dashboard_DI04\UTILIDADES\obj\Debug\UTILIDADES.Properties.Resources.resources
+C:\Users\manur\Documents\DAM\DDI\UD 4\contin_gutierrez_manuel_ModuloDI04_TareaEvaluativa01\Dashboard_DI04\UTILIDADES\obj\Debug\UTILIDADES.csproj.GenerateResource.cache
+C:\Users\manur\Documents\DAM\DDI\UD 4\contin_gutierrez_manuel_ModuloDI04_TareaEvaluativa01\Dashboard_DI04\UTILIDADES\obj\Debug\UTILIDADES.csproj.CoreCompileInputs.cache
+C:\Users\manur\Documents\DAM\DDI\UD 4\contin_gutierrez_manuel_ModuloDI04_TareaEvaluativa01\Dashboard_DI04\UTILIDADES\obj\Debug\UTILIDADES.dll
+C:\Users\manur\Documents\DAM\DDI\UD 4\contin_gutierrez_manuel_ModuloDI04_TareaEvaluativa01\Dashboard_DI04\UTILIDADES\obj\Debug\UTILIDADES.pdb
+C:\Users\manur\Documents\DAM\DDI\UD 5\Dashboard_DI04\UTILIDADES\bin\Debug\UTILIDADES.dll
+C:\Users\manur\Documents\DAM\DDI\UD 5\Dashboard_DI04\UTILIDADES\bin\Debug\UTILIDADES.pdb
+C:\Users\manur\Documents\DAM\DDI\UD 5\Dashboard_DI04\UTILIDADES\obj\Debug\UTILIDADES.csproj.AssemblyReference.cache
+C:\Users\manur\Documents\DAM\DDI\UD 5\Dashboard_DI04\UTILIDADES\obj\Debug\UTILIDADES.Properties.Resources.resources
+C:\Users\manur\Documents\DAM\DDI\UD 5\Dashboard_DI04\UTILIDADES\obj\Debug\UTILIDADES.csproj.GenerateResource.cache
+C:\Users\manur\Documents\DAM\DDI\UD 5\Dashboard_DI04\UTILIDADES\obj\Debug\UTILIDADES.csproj.CoreCompileInputs.cache
+C:\Users\manur\Documents\DAM\DDI\UD 5\Dashboard_DI04\UTILIDADES\obj\Debug\UTILIDADES.dll
+C:\Users\manur\Documents\DAM\DDI\UD 5\Dashboard_DI04\UTILIDADES\obj\Debug\UTILIDADES.pdb
